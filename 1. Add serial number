@@ -13,5 +13,21 @@ There are 14 ways to add serial numbers
         
         Drag the column to wherever we want to stop the serial number
         
+3. Fill Series To Automatically Add Serial Numbers       
+
+        Now let’s say you want to automatically number rows up to 10000 or 100000 and you want to do this in a one go.
+
+        Maybe it’s a pain with fill handle but, you can use fill series to generate a column with serial numbers in a one go.
+
+        Here are the steps.
+
+        Select the cell from where you want to start your serial numbers and insert “1” in it.
+        Now, go to home tab ➜ editing ➜ fill ➜ series.
+        In the series window, do the following.
+        Series In = Column.
+        Step Value = 1
+        Stop Value = 10000 or whatever you want up to.
+        Click OK.
+        
         
 
