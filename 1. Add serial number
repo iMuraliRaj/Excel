@@ -1,1 +1,8 @@
 There are 14 ways to add serial numbers
+
+1. Row Numbers as Serial Numbers
+
+        By default, in a spreadsheet, you have row numbers which act as a serial number for the data.
+        
+        If you don’t want to use serial numbers for filtering or any other purpose then it’s better to use the row headers.
+
