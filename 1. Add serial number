@@ -1,4 +1,4 @@
-There are 14 ways to add serial numbers
+There are various ways to add serial numbers
 
 1. Row Numbers as Serial Numbers
 
@@ -28,16 +28,5 @@ There are 14 ways to add serial numbers
         Step Value = 1
         Stop Value = 10000 or whatever you want up to.
         Click OK.
-        
-        
-4. Use ROW Function to Drag Serial Numbers
-        ROW is an effective way to insert serial numbers in your worksheet. 
-
-It can return the row number of a reference and when you skip referring to any cell it will return the row number of cell in which you have entered it.
-
-Here's the simple steps.
-
-Go to cell A1 and enter the =ROW() formula in it.
-Now drag the formula to down, up to the serial number you want.        
         
 
