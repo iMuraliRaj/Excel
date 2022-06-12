@@ -5,4 +5,13 @@ There are 14 ways to add serial numbers
         By default, in a spreadsheet, you have row numbers which act as a serial number for the data.
         
         If you don’t want to use serial numbers for filtering or any other purpose then it’s better to use the row headers.
+        
+
+2. Draging the serial number column
+
+        Enter the number in first row
+        
+        Drag the column to wherever we want to stop the serial number
+        
+        
 
